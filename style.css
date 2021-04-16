@@ -1,0 +1,98 @@
+h1{
+    font-size: 50px;
+    font-family: 'Dancing Script', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    font-weight: 900;
+    text-shadow: 3px 2px 2px;
+    
+}
+h2,h3{
+    text-align:center;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+* {
+    box-sizing: border-box;
+}
+div{
+    background-image: url(img/unnamed.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size:cover;
+    background-attachment: fixed;
+
+         
+}
+.text1{
+    
+    text-align: left;
+    color:black;
+    font-size: larger;
+    background-image: url(img/images.jfif);
+    background-repeat: no-repeat;
+    background-position-x: 40%;
+    background-size:inherit;
+   
+}
+.text2{
+   text-align: left;
+   padding: 5%;
+   color: whitesmoke;
+   font-size: larger;
+}
+.texth{
+     color: tomato;
+     text-shadow: tomato;
+    
+}
+.TextWrap{
+    float:left;
+    margin: 5px;
+    padding: 10px;
+    border: slateblue;
+    background-color: salmon;
+    height: 400px;
+}
+p{
+    color:rgb(15, 7, 7);
+    line-height: 2;
+    font-size: 100%;
+    font-weight: 800;
+    word-spacing: 3;
+    text-align:center;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+text1{
+    background-image: url(img/download.jfif);
+    br
+}
+
+header {
+    padding: 40px;
+    background-color: rgb(17, 124, 143);
+}
+main {
+    background-color: white;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
